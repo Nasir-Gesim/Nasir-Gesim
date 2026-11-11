@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Nasir Gesim 👋
+Data Analytics Lead/Developer: Alteryx Certified | Python | SQL | Snowflake | Power BI | Tableau | Claude AI | Jira | Agile | Asana | OneStream
+Experienced analytics professional specializing in business intelligence, data automation, reporting, and AI-powered solutions.
 
-<!--
-**Eng-NasirGesim/Eng-NasirGesim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+Lead Data Analyst
+Snowflake & SQL Expert
+Power BI Developer
+Alteryx Certified
+Python Analytics & Automation
+AI Enthusiast (Microsoft Copilot & Claude)
+🛠️ Technologies
+Snowflake
+SQL
+Python
+Power BI
+Alteryx
+Tableau
+GitHub
+Azure
+Jira
+Asana
+📊 Current Focus
+AI Agents & Automation
+Advanced Analytics
+Data Engineering
+Business Intelligence
+Analytics Leadership
+📂 Portfolio Projects
+Coming Soon
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Snowflake SQL Portfolio
+Power BI Dashboards
+Python Data Analytics
+Alteryx Automation Workflows
+AI-Powered Analytics Solutions
+📫 Let's Connect
+LinkedIn: www.linkedin.com/in/nasirgesim
