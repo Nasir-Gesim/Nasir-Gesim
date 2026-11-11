@@ -4,11 +4,14 @@ Experienced analytics professional specializing in business intelligence, data a
 
 ## 🚀 About Me
 - Lead Data Analyst
+- Master of Information Engineering (GPA 4.0)
 - Snowflake & SQL Expert
 - Power BI Developer
 - Alteryx Certified
+- Data Analytics Certification
 - Python Analytics & Automation
 - AI Enthusiast (Microsoft Copilot & Claude)
+- Currently pursuing Strategic Leadership & Management Certification
   
 ## 🛠️ Technology Stack
 - Snowflake
