@@ -33,7 +33,6 @@ Experienced analytics professional specializing in business intelligence, data a
 - Analytics Leadership
   
 ## 📂 Portfolio Projects
-Coming Soon:
 
 - [snowflake-sql-portfolio](https://github.com/Eng-NasirGesim/snowflake-sql-portfolio)
 - [Power BI Dashboard-portfolio](https://github.com/Eng-NasirGesim/PowerBi-dashboard-portfolio)
