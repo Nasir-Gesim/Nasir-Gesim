@@ -35,7 +35,7 @@ Experienced analytics professional specializing in business intelligence, data a
 ## 📂 Portfolio Projects
 Coming Soon:
 
--  Snowflake SQL Portfolio
+- Snowflake SQL Portfolio
 - Power BI Dashboards
 - Python Data Analytics
 - Alteryx Automation Workflows
