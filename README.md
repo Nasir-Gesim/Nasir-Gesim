@@ -41,5 +41,4 @@ Experienced analytics professional specializing in business intelligence, data a
 - AI-Powered Analytics Solutions
 
 ## 📫 Connect
-LinkedIn:
-https://www.linkedin.com/in/nasirgesim
+- LinkedIn:[Nasir Gesim](https://www.linkedin.com/in/nasirgesim)
