@@ -35,8 +35,8 @@ Experienced analytics professional specializing in business intelligence, data a
 ## 📂 Portfolio Projects
 Coming Soon:
 
-- Snowflake SQL Portfolio
-- Power BI Dashboards
+- [snowflake-sql-portfolio](https://github.com/Eng-NasirGesim/snowflake-sql-portfolio)
+- [Power BI Dashboard-portfolio](https://github.com/Eng-NasirGesim/PowerBi-dashboard-portfolio)
 - Python Data Analytics
 - Alteryx Automation Workflows
 - AI-Powered Analytics Solutions
